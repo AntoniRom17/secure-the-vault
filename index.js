@@ -1,8 +1,8 @@
 let code1 = 7 + 3;
 
-let code2 = 100 - 120/2;
+let code2 = 200/2 - 60;
 
-let code3 = 398 % 80;
+let code3 = 199 % 40;
 
 let message = "The vault has been secured. The combination is:";
 
